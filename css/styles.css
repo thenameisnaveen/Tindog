@@ -29,16 +29,17 @@ p{
 #title{
   background-color: #ff4c68;
   color: #fff;
+  padding-bottom: 3%;
 }
 
 
 .container-fluid{
-  padding : 7% 15%;
+  padding : 5% 15%;
 }
 
 .navbar{
   padding: 0 0 4.5rem;
-
+  margin-top: 0;
 }
 
 .navbar-brand{
